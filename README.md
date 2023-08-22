@@ -20,6 +20,6 @@ Thank you for visiting my profile. I look forward to the opportunity to collabor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nodejs,express,postgres,sequelize&theme=light" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,redux,nodejs,express,postgres,sequelize&theme=light" alt="My Skills">
   </a>
 </p>
